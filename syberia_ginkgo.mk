@@ -39,8 +39,8 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Fingerprint
-BUILD_FINGERPRINT := google/sunfish/sunfish:11/RP1A.200720.010/6722941:user/release-keys
-BUILD_DESCRIPTION := sunfish-user 11 RP1A.200720.010 6722941 release-keys
+BUILD_FINGERPRINT := google/sunfish/sunfish:11/RP1A.201005.006/6828489:user/release-keys
+BUILD_DESCRIPTION := sunfish-user 11 RP1A.201005.006 6828489 release-keys
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
